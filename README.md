@@ -1,2 +1,2 @@
-# visual_db_explorer
+# visual_db_explorer (in progress.....
 A visual, natural-language DataBase explorer and modifier. The solution aims to use a unique low-usage LLM to synchronize natural language queries, UI-based changes and custom SQL for key DataBase providers. 
